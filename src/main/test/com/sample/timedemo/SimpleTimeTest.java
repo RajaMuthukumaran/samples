@@ -1,4 +1,4 @@
-package com.sample.TimeDemo;
+package com.sample.timedemo;
 
 import static org.junit.Assert.*;
 
@@ -7,6 +7,8 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import com.sample.timedemo.SimpleTime;
 
 public class SimpleTimeTest {
 
